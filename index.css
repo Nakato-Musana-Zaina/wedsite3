@@ -1,0 +1,29 @@
+#form{
+border: solid 1px;
+padding: 16px;
+    margin:auto;
+}
+.input{
+    padding: 12px 12px;
+    border: solid;
+    margin: auto;
+}
+ 
+.image{
+    text-align: center;
+    gap: 8px;
+}
+.body{
+    background-color: rgb(164, 145, 182);
+}
+.container{
+    display: flex;
+    padding: 250px;
+    margin: auto;
+
+}
+
+    
+
+
+
